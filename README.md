@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida em Node - javascript.
 
-Para compilar o codigo, basta digitar node .\index.js no terminal.
+Para compilar o codigo, basta digitar 'node .\index.js' no terminal.
 
 Todo o código está concentrado no arquivo index.js onde há 3 funções: 
     getData: Responsável por consumir os dados da api.
